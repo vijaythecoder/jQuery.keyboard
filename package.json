@@ -1,0 +1,31 @@
+{
+  "name": "jQuery.keyboard",
+  "version": "1.0.0",
+  "description": "Provides on screen keyboard.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vparitskiy/jQuery.keyboard"
+  },
+  "keywords": [
+    "jquery",
+    "keyboard"
+  ],
+  "maintainers": [
+    "François Germain"
+  ],
+  "homepage": "https://github.com/vparitskiy/jQuery.keyboard",
+  "dependencies": {
+        "jquery": "==2.2.0"
+    },
+  "files": [
+      "keyboard.css",
+      "js/jquery.selection.js",
+      "js/jquery.keyboard/jquery.keyboard.js",
+      "js/jquery.keyboard/plugins/form.js",
+      "js/jquery.keyboard/keyboards/azerty.js",
+      "js/jquery.keyboard/keyboards/qwerty.js"
+    ]
+}
